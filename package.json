@@ -1,0 +1,12 @@
+{
+  "name": "margin-blog",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A full-stack blogging platform with accounts, posts, and comments.",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=22.5.0"
+  }
+}
